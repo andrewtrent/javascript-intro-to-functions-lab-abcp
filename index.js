@@ -11,5 +11,4 @@ logWhisper(string){
   return console.log(whisper(string))
 }
 sayHiToGrandma(string){
-  return
 }
