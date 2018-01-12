@@ -10,4 +10,6 @@ logShout(string){
 logWhisper(string){
   return console.log(whisper(string))
 }
-sayHiToGrandma
+sayHiToGrandma(string){
+  return
+}
